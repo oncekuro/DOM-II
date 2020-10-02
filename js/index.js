@@ -30,7 +30,7 @@ window.addEventListener("drag", () => {
 });
 
 window.addEventListener("scroll", () => {
-  footer.style.background = "orange";
+  footer.style.background = "cyan";
 });
 
 button.forEach((btn) => {
